@@ -1,3 +1,8 @@
+/*
+ Respuesta del parcial 2 de lenguajes de programación 
+ Hecho por: Juan José Sánchez Cortés
+ En este archivo se encuentra adjunto el código para realizar los problemas propuestos en donde se encuentra el parcial
+*/
 #include <bits/stdc++.h>
 #include <iostream>
 using namespace std;
